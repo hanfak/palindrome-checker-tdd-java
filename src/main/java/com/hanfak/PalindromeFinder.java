@@ -6,11 +6,7 @@ class PalindromeFinder {
             return isPalindrome(text);
         }
 
-        if(text.length() == 3) {
-            return isPalindrome(text);
-        }
-
-        if(text.length() == 2) {
+        if(text.length() < 3) {
             return isPalindrome(text);
         }
 
@@ -18,8 +14,9 @@ class PalindromeFinder {
     }
 
     private boolean isPalindrome(String text) {
+        int indexOfLastChar = text.length() - 1;
         char firstChar = text.charAt(0);
-        char lastChar = text.charAt(text.length() - 1);
+        char lastChar = text.charAt(indexOfLastChar);
         return firstChar == lastChar;
     }
 }

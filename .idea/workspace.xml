@@ -75,8 +75,8 @@
           <file leaf-file-name="PalindromeFinder.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/hanfak/PalindromeFinder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+                <state relative-caret-position="270">
+                  <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
                   <folding />
                 </state>
               </provider>
@@ -668,15 +668,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestPalindromeFinder_stringLength2DiffChars - 2017.01.10 at 14h 53m 05s.xml">
-      <configuration name="TestPalindromeFinder.stringLength2DiffChars" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPalindromeFinder_stringLength2SameChars - 2017.01.10 at 14h 53m 15s.xml">
-      <configuration name="TestPalindromeFinder.stringLength2SameChars" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPalindromeFinder_stringLength2SameChars - 2017.01.10 at 14h 53m 35s.xml">
-      <configuration name="TestPalindromeFinder.stringLength2SameChars" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestPalindromeFinder_stringLength2SameChars - 2017.01.10 at 14h 55m 05s.xml">
       <configuration name="TestPalindromeFinder.stringLength2SameChars" configurationId="JUnit" />
     </history-entry>
@@ -696,6 +687,15 @@
       <configuration name="TestPalindromeFinder.stringLength4EndCharsDiff" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestPalindromeFinder_stringLength4EndCharsDiff - 2017.01.10 at 15h 00m 02s.xml">
+      <configuration name="TestPalindromeFinder.stringLength4EndCharsDiff" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeFinder_stringLength4EndCharsDiff - 2017.01.10 at 15h 01m 20s.xml">
+      <configuration name="TestPalindromeFinder.stringLength4EndCharsDiff" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeFinder_stringLength4EndCharsDiff - 2017.01.10 at 15h 01m 36s.xml">
+      <configuration name="TestPalindromeFinder.stringLength4EndCharsDiff" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeFinder_stringLength4EndCharsDiff - 2017.01.10 at 15h 03m 02s.xml">
       <configuration name="TestPalindromeFinder.stringLength4EndCharsDiff" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -849,8 +849,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hanfak/PalindromeFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="270">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
           <folding />
         </state>
       </provider>
