@@ -14,7 +14,12 @@ public class TestPalindrome {
     }
 
     @Test
-    public void returnsTrue() {
+    public void StringLength1() {
         assertEquals(true, p.evaluate("1"));
+    }
+
+    @Test
+    public void StringLength2DiffChars() {
+        assertEquals(false, p.evaluate("xy"));
     }
 }
