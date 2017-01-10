@@ -1,19 +1,20 @@
 package com.hanfak;
 
+import org.junit.Before;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
 
 public class TestPalindrome {
+    private Palinedrome p;
 
-    @Test
-    public void canCreateObject() {
-        new Palinedrome();
+    @Before
+    public void setUp() {
+        p = new Palinedrome();
     }
 
     @Test
     public void returnsTrue() {
-        Palinedrome p = new Palinedrome();
         assertEquals(true, p.evaluate("1"));
     }
 }
