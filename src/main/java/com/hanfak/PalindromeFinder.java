@@ -3,6 +3,9 @@ package com.hanfak;
 class PalindromeFinder {
     public boolean evaluate(String text) {
         if(text.length() == 5) {
+            if(isPalindrome(text)) {
+                return isPalindrome(innerText(text));
+            }
             return false;
         }
 
