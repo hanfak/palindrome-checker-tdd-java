@@ -38,4 +38,8 @@ public class TestPalindromeFinder {
         assertEquals(true, finder.evaluate("949"));
     }
 
+    @Test
+    public void stringLength4EndCharsDiff() {
+        assertEquals(false, finder.evaluate("abcd"));
+    }
 }

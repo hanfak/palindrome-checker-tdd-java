@@ -2,6 +2,10 @@ package com.hanfak;
 
 class PalindromeFinder {
     public boolean evaluate(String text) {
+        if(text.length() == 4) {
+            return isPalindrome(text);
+        }
+
         if(text.length() == 3) {
             return isPalindrome(text);
         }

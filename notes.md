@@ -11,9 +11,10 @@
     xyz or zyx -> false
 
 4 numbers
-    xyyx -> true
+    xyyx or xxxx -> true
     xyyz -> false
     xyzx -> false
+
 
 Look at words
 
