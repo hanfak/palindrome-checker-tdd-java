@@ -2,21 +2,14 @@ package com.hanfak;
 
 class PalindromeFinder {
     public boolean evaluate(String text) {
-        if(text.length() == 5) {
+        if(text.length() >= 4) {
             if(isPalindrome(text)) {
                 return isPalindrome(innerText(text));
             }
             return false;
         }
 
-        if(text.length() == 4) {
-            if(isPalindrome(text)) {
-                return isPalindrome(innerText(text));
-            }
-            return false;
-        }
-
-        if(text.length() < 3) {
+        if(text.length() < 4) {
             return isPalindrome(text);
         }
 
