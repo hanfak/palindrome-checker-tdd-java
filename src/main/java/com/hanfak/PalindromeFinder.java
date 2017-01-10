@@ -4,11 +4,9 @@ class PalindromeFinder {
     public boolean evaluate(String text) {
         if(text.length() == 4) {
             if(isPalindrome(text)) {
-                String innerText = text.substring(1, text.length() - 1);
-                return isPalindrome(innerText);
-            } else {
-                return false;
+                return isPalindrome(innerText(text));
             }
+            return false;
         }
 
         if(text.length() < 3) {
@@ -23,5 +21,9 @@ class PalindromeFinder {
         char firstChar = text.charAt(0);
         char lastChar = text.charAt(indexOfLastChar);
         return firstChar == lastChar;
+    }
+
+    private String innerText(String text) {
+        return text.substring(1, text.length() - 1);
     }
 }
