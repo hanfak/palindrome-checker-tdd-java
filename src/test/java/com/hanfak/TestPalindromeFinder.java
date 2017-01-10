@@ -14,12 +14,17 @@ public class TestPalindromeFinder {
     }
 
     @Test
-    public void StringLength1() {
+    public void stringLength1() {
         assertEquals(true, finder.evaluate("1"));
     }
 
     @Test
-    public void StringLength2DiffChars() {
+    public void stringLength2DiffChars() {
         assertEquals(false, finder.evaluate("xy"));
+    }
+
+    @Test
+    public void stringLength2SameChars() {
+        assertEquals(true, finder.evaluate("33"));
     }
 }

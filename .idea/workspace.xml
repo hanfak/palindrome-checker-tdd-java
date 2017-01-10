@@ -32,8 +32,8 @@
           <file leaf-file-name="TestPalindromeFinder.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindromeFinder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+                <state relative-caret-position="405">
+                  <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#234#235#0" expanded="true" />
@@ -42,6 +42,8 @@
                     <element signature="e#382#383#0" expanded="true" />
                     <element signature="e#436#437#0" expanded="true" />
                     <element signature="e#494#495#0" expanded="true" />
+                    <element signature="e#548#549#0" expanded="true" />
+                    <element signature="e#605#606#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -51,8 +53,8 @@
             <entry file="file://$PROJECT_DIR$/notes.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="360">
-                    <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+                  <first_editor relative-caret-position="300">
+                    <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
                     <folding />
                   </first_editor>
                   <second_editor />
@@ -67,8 +69,8 @@
           <file leaf-file-name="PalindromeFinder.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/hanfak/PalindromeFinder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+                <state relative-caret-position="150">
+                  <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -100,12 +102,12 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Hello.java" />
-        <option value="$PROJECT_DIR$/notes.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hanfak/Palinedrome.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindromeFinder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hanfak/PalinedromeFinder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindromeFinder.java" />
+        <option value="$PROJECT_DIR$/notes.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/hanfak/PalindromeFinder.java" />
       </list>
     </option>
@@ -649,15 +651,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestPalindrome - 2017.01.10 at 14h 10m 11s.xml">
-      <configuration name="TestPalindrome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPalindrome - 2017.01.10 at 14h 11m 00s.xml">
-      <configuration name="TestPalindrome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPalindrome - 2017.01.10 at 14h 14m 51s.xml">
-      <configuration name="TestPalindrome" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestPalindrome - 2017.01.10 at 14h 15m 58s.xml">
       <configuration name="TestPalindrome" configurationId="JUnit" />
     </history-entry>
@@ -677,6 +670,15 @@
       <configuration name="TestPalindromeFinder" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 18m 40s.xml">
+      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 20m 13s.xml">
+      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 29m 01s.xml">
+      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 29m 31s.xml">
       <configuration name="TestPalindromeFinder" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -745,6 +747,8 @@
             <element signature="e#382#383#0" expanded="true" />
             <element signature="e#436#437#0" expanded="true" />
             <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -788,8 +792,8 @@
     <entry file="file://$PROJECT_DIR$/notes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
@@ -798,8 +802,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindromeFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="405">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#234#235#0" expanded="true" />
@@ -808,14 +812,16 @@
             <element signature="e#382#383#0" expanded="true" />
             <element signature="e#436#437#0" expanded="true" />
             <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hanfak/PalindromeFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>

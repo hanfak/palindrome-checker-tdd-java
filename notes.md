@@ -17,6 +17,9 @@
 
 Look at words
 
+Error
+    - non alphanumeric char
+
 Input
     string "12321"
     number no front 0
