@@ -32,8 +32,8 @@
           <file leaf-file-name="TestPalindromeFinder.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindromeFinder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+                <state relative-caret-position="480">
+                  <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#234#235#0" expanded="true" />
@@ -44,6 +44,8 @@
                     <element signature="e#494#495#0" expanded="true" />
                     <element signature="e#548#549#0" expanded="true" />
                     <element signature="e#605#606#0" expanded="true" />
+                    <element signature="e#661#662#0" expanded="true" />
+                    <element signature="e#720#721#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -69,8 +71,8 @@
           <file leaf-file-name="PalindromeFinder.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/hanfak/PalindromeFinder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <state relative-caret-position="60">
+                  <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
                   <folding />
                 </state>
               </provider>
@@ -106,8 +108,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hanfak/Palinedrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hanfak/PalinedromeFinder.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindromeFinder.java" />
         <option value="$PROJECT_DIR$/notes.md" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindromeFinder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hanfak/PalindromeFinder.java" />
       </list>
     </option>
@@ -651,15 +653,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestPalindrome - 2017.01.10 at 14h 15m 58s.xml">
-      <configuration name="TestPalindrome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPalindrome - 2017.01.10 at 14h 15m 59s.xml">
-      <configuration name="TestPalindrome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPalindrome - 2017.01.10 at 14h 16m 07s.xml">
-      <configuration name="TestPalindrome" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 16m 43s.xml">
       <configuration name="TestPalindromeFinder" configurationId="JUnit" />
     </history-entry>
@@ -679,6 +672,15 @@
       <configuration name="TestPalindromeFinder" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 29m 31s.xml">
+      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 32m 11s.xml">
+      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 33m 04s.xml">
+      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 34m 04s.xml">
       <configuration name="TestPalindromeFinder" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -749,6 +751,8 @@
             <element signature="e#494#495#0" expanded="true" />
             <element signature="e#548#549#0" expanded="true" />
             <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -802,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindromeFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        <state relative-caret-position="480">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#234#235#0" expanded="true" />
@@ -814,14 +818,16 @@
             <element signature="e#494#495#0" expanded="true" />
             <element signature="e#548#549#0" expanded="true" />
             <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hanfak/PalindromeFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding />
         </state>
       </provider>

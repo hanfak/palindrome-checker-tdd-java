@@ -27,4 +27,9 @@ public class TestPalindromeFinder {
     public void stringLength2SameChars() {
         assertEquals(true, finder.evaluate("33"));
     }
+
+    @Test
+    public void stringLength3EndCharsDiff(){
+        assertEquals(false, finder.evaluate("xyz"));
+    }
 }
