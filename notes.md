@@ -7,7 +7,7 @@
     diff -> false
 
 3 numbers
-    xyx -> true
+    xyx or xxx -> true
     xyz or zyx -> false
 
 4 numbers

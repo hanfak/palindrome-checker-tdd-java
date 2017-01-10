@@ -32,8 +32,8 @@
           <file leaf-file-name="TestPalindromeFinder.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindromeFinder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="480">
-                  <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+                <state relative-caret-position="390">
+                  <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#234#235#0" expanded="true" />
@@ -42,10 +42,11 @@
                     <element signature="e#382#383#0" expanded="true" />
                     <element signature="e#436#437#0" expanded="true" />
                     <element signature="e#494#495#0" expanded="true" />
-                    <element signature="e#548#549#0" expanded="true" />
                     <element signature="e#605#606#0" expanded="true" />
-                    <element signature="e#661#662#0" expanded="true" />
-                    <element signature="e#720#721#0" expanded="true" />
+                    <element signature="e#662#663#0" expanded="true" />
+                    <element signature="e#721#722#0" expanded="true" />
+                    <element signature="e#778#779#0" expanded="true" />
+                    <element signature="e#836#837#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -55,8 +56,8 @@
             <entry file="file://$PROJECT_DIR$/notes.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="300">
-                    <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+                  <first_editor relative-caret-position="135">
+                    <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
                     <folding />
                   </first_editor>
                   <second_editor />
@@ -71,8 +72,8 @@
           <file leaf-file-name="PalindromeFinder.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/hanfak/PalindromeFinder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                <state relative-caret-position="75">
+                  <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -108,8 +109,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hanfak/Palinedrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hanfak/PalinedromeFinder.java" />
-        <option value="$PROJECT_DIR$/notes.md" />
         <option value="$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindromeFinder.java" />
+        <option value="$PROJECT_DIR$/notes.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/hanfak/PalindromeFinder.java" />
       </list>
     </option>
@@ -258,48 +259,7 @@
     <property name="FullScreen" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.TestPalindromeFinder">
-    <configuration default="false" name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Hello" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="palinedrome" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestPalindrome.canCreateObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.hanfak.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="palinedrome" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.hanfak" />
-      <option name="MAIN_CLASS_NAME" value="com.hanfak.TestPalindrome" />
-      <option name="METHOD_NAME" value="canCreateObject" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestPalindromeFinder.stringLength2SameChars">
     <configuration default="false" name="TestPalindrome.returnsTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -366,6 +326,58 @@
       <option name="MAIN_CLASS_NAME" value="com.hanfak.TestPalindromeFinder" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestPalindromeFinder.stringLength2DiffChars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.hanfak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="palinedrome" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.hanfak" />
+      <option name="MAIN_CLASS_NAME" value="com.hanfak.TestPalindromeFinder" />
+      <option name="METHOD_NAME" value="stringLength2DiffChars" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestPalindromeFinder.stringLength2SameChars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.hanfak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="palinedrome" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.hanfak" />
+      <option name="MAIN_CLASS_NAME" value="com.hanfak.TestPalindromeFinder" />
+      <option name="METHOD_NAME" value="stringLength2SameChars" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -623,19 +635,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Hello" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestPalindrome.canCreateObject" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestPalindrome.returnsTrue" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestPalindrome" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestPalindromeFinder" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestPalindrome.returnsTrue" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestPalindrome" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestPalindromeFinder" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestPalindromeFinder.stringLength2DiffChars" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestPalindromeFinder.stringLength2SameChars" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestPalindromeFinder" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestPalindrome" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestPalindrome.returnsTrue" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestPalindrome.canCreateObject" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Hello" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestPalindromeFinder.stringLength2SameChars" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestPalindromeFinder.stringLength2DiffChars" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestPalindromeFinder" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestPalindrome" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestPalindrome.returnsTrue" />
       </list>
     </recent_temporary>
   </component>
@@ -653,35 +665,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 16m 43s.xml">
-      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    <history-entry file="TestPalindromeFinder_stringLength2DiffChars - 2017.01.10 at 14h 50m 48s.xml">
+      <configuration name="TestPalindromeFinder.stringLength2DiffChars" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 16m 50s.xml">
-      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    <history-entry file="TestPalindromeFinder_stringLength2DiffChars - 2017.01.10 at 14h 51m 08s.xml">
+      <configuration name="TestPalindromeFinder.stringLength2DiffChars" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 17m 08s.xml">
-      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    <history-entry file="TestPalindromeFinder_stringLength2DiffChars - 2017.01.10 at 14h 51m 53s.xml">
+      <configuration name="TestPalindromeFinder.stringLength2DiffChars" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 18m 40s.xml">
-      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    <history-entry file="TestPalindromeFinder_stringLength2DiffChars - 2017.01.10 at 14h 52m 06s.xml">
+      <configuration name="TestPalindromeFinder.stringLength2DiffChars" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 20m 13s.xml">
-      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    <history-entry file="TestPalindromeFinder_stringLength2DiffChars - 2017.01.10 at 14h 53m 05s.xml">
+      <configuration name="TestPalindromeFinder.stringLength2DiffChars" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 29m 01s.xml">
-      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    <history-entry file="TestPalindromeFinder_stringLength2SameChars - 2017.01.10 at 14h 53m 15s.xml">
+      <configuration name="TestPalindromeFinder.stringLength2SameChars" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 29m 31s.xml">
-      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    <history-entry file="TestPalindromeFinder_stringLength2SameChars - 2017.01.10 at 14h 53m 35s.xml">
+      <configuration name="TestPalindromeFinder.stringLength2SameChars" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 32m 11s.xml">
-      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    <history-entry file="TestPalindromeFinder_stringLength2SameChars - 2017.01.10 at 14h 55m 05s.xml">
+      <configuration name="TestPalindromeFinder.stringLength2SameChars" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 33m 04s.xml">
-      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    <history-entry file="TestPalindromeFinder_stringLength2SameChars - 2017.01.10 at 14h 55m 42s.xml">
+      <configuration name="TestPalindromeFinder.stringLength2SameChars" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPalindromeFinder - 2017.01.10 at 14h 34m 04s.xml">
-      <configuration name="TestPalindromeFinder" configurationId="JUnit" />
+    <history-entry file="TestPalindromeFinder_stringLength2SameChars - 2017.01.10 at 14h 55m 46s.xml">
+      <configuration name="TestPalindromeFinder.stringLength2SameChars" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -749,10 +761,11 @@
             <element signature="e#382#383#0" expanded="true" />
             <element signature="e#436#437#0" expanded="true" />
             <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
             <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -796,8 +809,8 @@
     <entry file="file://$PROJECT_DIR$/notes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
             <folding />
           </first_editor>
           <second_editor />
@@ -806,8 +819,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/hanfak/TestPalindromeFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        <state relative-caret-position="390">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#234#235#0" expanded="true" />
@@ -816,18 +829,19 @@
             <element signature="e#382#383#0" expanded="true" />
             <element signature="e#436#437#0" expanded="true" />
             <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
             <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hanfak/PalindromeFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
