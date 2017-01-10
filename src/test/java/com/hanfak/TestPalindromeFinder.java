@@ -57,4 +57,9 @@ public class TestPalindromeFinder {
     public void stringLength5EndCharsSameInnerSameMiddleSame() {
         assertEquals(true, finder.evaluate("12321"));
     }
+
+    @Test
+    public void stringLengthOddNotPalindrome() {
+        assertEquals(false, finder.evaluate("1357a31"));
+    }
 }

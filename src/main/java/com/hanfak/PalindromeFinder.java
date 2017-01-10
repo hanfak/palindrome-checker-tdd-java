@@ -2,21 +2,18 @@ package com.hanfak;
 
 class PalindromeFinder {
     public boolean evaluate(String text) {
-        if(text.length() >= 4) {
-            if(isPalindrome(text)) {
-                return isPalindrome(innerText(text));
-            }
-            return false;
+        if(text.length() < 2) {
+            return true;
         }
 
-        if(text.length() < 4) {
-            return isPalindrome(text);
+        if(endsMatch(text)) {
+            return evaluate(innerText(text));
         }
 
-        return true;
+        return false;
     }
 
-    private boolean isPalindrome(String text) {
+    private boolean endsMatch(String text) {
         int indexOfLastChar = text.length() - 1;
         char firstChar = text.charAt(0);
         char lastChar = text.charAt(indexOfLastChar);
