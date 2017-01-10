@@ -42,4 +42,9 @@ public class TestPalindromeFinder {
     public void stringLength4EndCharsDiff() {
         assertEquals(false, finder.evaluate("abcd"));
     }
+
+    @Test
+    public void stringLength4EndCharsSameInnerDiff(){
+        assertEquals(false, finder.evaluate("1231"));
+    }
 }
