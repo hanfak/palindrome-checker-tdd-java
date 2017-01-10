@@ -11,4 +11,9 @@ public class TestPalindrome {
         new Palinedrome();
     }
 
+    @Test
+    public void returnsTrue() {
+        Palinedrome p = new Palinedrome();
+        assertEquals(true, p.evaluate("1"));
+    }
 }
