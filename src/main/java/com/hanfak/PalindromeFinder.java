@@ -2,15 +2,7 @@ package com.hanfak;
 
 class PalindromeFinder {
     public boolean evaluate(String text) {
-        if(text.length() < 2) {
-            return true;
-        }
-
-        if(endsMatch(text)) {
-            return evaluate(innerText(text));
-        }
-
-        return false;
+        return text.length() < 2 || endsMatch(text) && evaluate(innerText(text));
     }
 
     private boolean endsMatch(String text) {
